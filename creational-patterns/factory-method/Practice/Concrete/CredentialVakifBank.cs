@@ -1,3 +1,5 @@
+namespace Practice.Concrete;
+
 class CredentialVakifBank
 {
     public string UserCode { get; set; }

@@ -1,3 +1,8 @@
+using Practice.Abstract;
+using Practice.Concrete;
+
+namespace Practice.Creator;
+
 class ProductCreator
 {
     static public IProduct GetInstance(ProductType productType)

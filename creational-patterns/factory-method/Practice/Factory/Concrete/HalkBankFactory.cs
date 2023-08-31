@@ -1,3 +1,9 @@
+using Practice.Abstract;
+using Practice.Concrete;
+using Practice.Factory.Abstract;
+
+namespace Practice.Factory.Concrete;
+
 class HalkBankFactory : IBankFactory
 {
     public IBank CreateInstance()

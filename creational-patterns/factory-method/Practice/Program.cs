@@ -12,6 +12,9 @@
 //HalkBank halkBank = new("gncy");
 //halkBank.Password = "123";
 
+using Practice.Concrete;
+using Practice.Creator;
+
 BankCreator bankCreator = new();
 GarantiBank? garanti = bankCreator.Create(BankType.Garanti) as GarantiBank;
 HalkBank? halkBank = bankCreator.Create(BankType.Halkbank) as HalkBank;

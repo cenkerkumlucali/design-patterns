@@ -1,3 +1,7 @@
+using Practice.Abstract;
+
+namespace Practice.Concrete;
+
 class GarantiBank : IBank
 {
     string _userCode, _password;

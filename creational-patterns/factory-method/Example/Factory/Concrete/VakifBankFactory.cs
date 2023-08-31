@@ -1,3 +1,9 @@
+using Example.Abstract;
+using Example.Concrete;
+using Example.Factory.Abstract;
+
+namespace Example.Factory.Concrete;
+
 class VakifBankFactory : IBankFactory
 {
     public IBank CreateInstance()

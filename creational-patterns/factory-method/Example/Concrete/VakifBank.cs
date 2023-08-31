@@ -1,3 +1,7 @@
+using Example.Abstract;
+
+namespace Example.Concrete;
+
 class VakifBank : IBank
 {
     string _userCode, _email, _password;

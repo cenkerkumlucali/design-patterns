@@ -1,3 +1,5 @@
+namespace Example.Concrete;
+
 class CredentialVakifBank
 {
     public string UserCode { get; set; }

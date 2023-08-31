@@ -1,3 +1,7 @@
+using Practice.Abstract;
+
+namespace Practice.Concrete;
+
 class VakifBank : IBank
 {
     string _userCode, _email, _password;
