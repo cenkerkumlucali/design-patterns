@@ -15,7 +15,7 @@ class VakifBank : IBank
     }
 
     static VakifBank()
-        => _vakifBank = new(new() { Mail = "gncy@gencayyildiz.com", UserCode = "gncy" }, "123");
+        => _vakifBank = new(new() { Mail = "cenkerkumlucali@gmail.com", UserCode = "cenker" }, "123");
     static VakifBank _vakifBank;
     static public VakifBank GetInstance => _vakifBank;
 
