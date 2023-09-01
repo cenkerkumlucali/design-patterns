@@ -19,7 +19,7 @@ class BankCreator
         // return _bankFactory.CreateInstance();
         //
 
-        string factory = $"{bankType.ToString()}Factory";
+        string factory = $"Practice.Factory.Concrete.{bankType.ToString()}Factory";
         Type? type = Assembly.GetExecutingAssembly().GetType(factory);
         IBankFactory? bankFactory = Activator.CreateInstance(type) as IBankFactory;
         return bankFactory.CreateInstance();

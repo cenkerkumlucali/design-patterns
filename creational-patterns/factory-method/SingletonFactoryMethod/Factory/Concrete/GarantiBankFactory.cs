@@ -4,13 +4,13 @@ using Practice.Factory.Abstract;
 
 namespace Practice.Factory.Concrete;
 
-class GarantiFactory : IBankFactory
+class GarantiBankFactory : IBankFactory
 {
-    GarantiFactory() { }
-    static GarantiFactory()
+    public GarantiBankFactory() { }
+    static GarantiBankFactory()
         => _garantiFactory = new();
-    static GarantiFactory _garantiFactory;
-    static public GarantiFactory GetInstance => _garantiFactory;
+    static GarantiBankFactory _garantiFactory;
+    static public GarantiBankFactory GetInstance => _garantiFactory;
     public IBank CreateInstance()
     {
         GarantiBank garanti = GarantiBank.GetInstance;

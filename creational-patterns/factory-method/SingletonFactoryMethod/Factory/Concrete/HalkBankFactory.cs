@@ -6,7 +6,7 @@ namespace Practice.Factory.Concrete;
 
 class HalkBankFactory : IBankFactory
 {
-    HalkBankFactory() { }
+    public HalkBankFactory() { }
     static HalkBankFactory()
         => _halkBankFactory = new();
     static HalkBankFactory _halkBankFactory;

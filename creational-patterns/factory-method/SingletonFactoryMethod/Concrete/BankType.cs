@@ -2,5 +2,5 @@ namespace Practice.Concrete;
 
 enum BankType
 {
-    Garanti, Halkbank, Vakifbank
+    GarantiBank, HalkBank, VakifBank
 }
