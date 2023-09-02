@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Extensions.ObjectPool/7.0.10": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.ObjectPool.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.ObjectPool.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.ObjectPool/7.0.10": {
+      "sha512": "gZtBCCoImzYA2P8gIAjSP1m2eCe75xpeRA3J5X/vtjmzue0FegzdqIM2VC3b+LJjzRPEqOQcKR+Fl2R+GoNe+Q==",
+      "type": "package",
+      "path": "microsoft.extensions.objectpool/7.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.Extensions.ObjectPool.dll",
+        "lib/net462/Microsoft.Extensions.ObjectPool.xml",
+        "lib/net7.0/Microsoft.Extensions.ObjectPool.dll",
+        "lib/net7.0/Microsoft.Extensions.ObjectPool.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.xml",
+        "microsoft.extensions.objectpool.7.0.10.nupkg.sha512",
+        "microsoft.extensions.objectpool.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.Extensions.ObjectPool >= 7.0.10"
+    ]
+  },
+  "packageFolders": {
+    "/Users/cenkerkumlucali/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/Extension.csproj",
+      "projectName": "Extension",
+      "projectPath": "/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/Extension.csproj",
+      "packagesPath": "/Users/cenkerkumlucali/.nuget/packages/",
+      "outputPath": "/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/cenkerkumlucali/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.Extensions.ObjectPool": {
+            "target": "Package",
+            "version": "[7.0.10, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

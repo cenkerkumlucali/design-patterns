@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QOwVVXKpN5AHhewjl3sJrvTuFn5+pPjxCYtRG1ulUcKc2LTrpDmAk1mYvoFoQw89ZvhLU0t5ZfjCw2IgquLjg==",
+  "success": true,
+  "projectFilePath": "/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/Extension.csproj",
+  "expectedPackageFiles": [
+    "/Users/cenkerkumlucali/.nuget/packages/microsoft.extensions.objectpool/7.0.10/microsoft.extensions.objectpool.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

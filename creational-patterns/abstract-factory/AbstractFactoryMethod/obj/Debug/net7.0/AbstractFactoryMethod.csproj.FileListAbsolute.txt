@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/bin/Debug/net7.0/AbstractFactoryMethod
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/bin/Debug/net7.0/AbstractFactoryMethod.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/bin/Debug/net7.0/AbstractFactoryMethod.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/bin/Debug/net7.0/AbstractFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/bin/Debug/net7.0/AbstractFactoryMethod.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/refint/AbstractFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/AbstractFactoryMethod.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/AbstractFactoryMethod/obj/Debug/net7.0/ref/AbstractFactoryMethod.dll

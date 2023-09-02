@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/bin/Debug/net7.0/Practice
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/bin/Debug/net7.0/Practice.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/bin/Debug/net7.0/Practice.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/bin/Debug/net7.0/Practice.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/bin/Debug/net7.0/Practice.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/refint/Practice.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/Practice.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/prototype/Practice/obj/Debug/net7.0/ref/Practice.dll

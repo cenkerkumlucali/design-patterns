@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/bin/Debug/net7.0/Abstract_Class_Example
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/bin/Debug/net7.0/Abstract_Class_Example.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/bin/Debug/net7.0/Abstract_Class_Example.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/bin/Debug/net7.0/Abstract_Class_Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/bin/Debug/net7.0/Abstract_Class_Example.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/refint/Abstract_Class_Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/Abstract_Class_Example.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Abstract_Class_Example/obj/Debug/net7.0/ref/Abstract_Class_Example.dll

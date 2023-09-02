@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/bin/Debug/net7.0/Example
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/bin/Debug/net7.0/Example.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/bin/Debug/net7.0/Example.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/bin/Debug/net7.0/Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/bin/Debug/net7.0/Example.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/refint/Example.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/Example.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/abstract-factory/Example/obj/Debug/net7.0/ref/Example.dll

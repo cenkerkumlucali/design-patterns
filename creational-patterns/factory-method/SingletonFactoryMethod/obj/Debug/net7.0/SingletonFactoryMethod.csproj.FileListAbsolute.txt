@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/bin/Debug/net7.0/SingletonFactoryMethod
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/bin/Debug/net7.0/SingletonFactoryMethod.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/bin/Debug/net7.0/SingletonFactoryMethod.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/bin/Debug/net7.0/SingletonFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/bin/Debug/net7.0/SingletonFactoryMethod.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/refint/SingletonFactoryMethod.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/SingletonFactoryMethod.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/factory-method/SingletonFactoryMethod/obj/Debug/net7.0/ref/SingletonFactoryMethod.dll

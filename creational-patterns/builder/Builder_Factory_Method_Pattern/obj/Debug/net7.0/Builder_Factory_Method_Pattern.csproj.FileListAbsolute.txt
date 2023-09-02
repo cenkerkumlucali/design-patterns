@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/bin/Debug/net7.0/Builder_Factory_Method_Pattern
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/bin/Debug/net7.0/Builder_Factory_Method_Pattern.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/bin/Debug/net7.0/Builder_Factory_Method_Pattern.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/bin/Debug/net7.0/Builder_Factory_Method_Pattern.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/bin/Debug/net7.0/Builder_Factory_Method_Pattern.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/refint/Builder_Factory_Method_Pattern.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/Builder_Factory_Method_Pattern.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/builder/Builder_Factory_Method_Pattern/obj/Debug/net7.0/ref/Builder_Factory_Method_Pattern.dll

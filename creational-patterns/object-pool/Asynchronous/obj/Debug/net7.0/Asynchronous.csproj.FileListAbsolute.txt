@@ -1,0 +1,14 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/bin/Debug/net7.0/Asynchronous
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/bin/Debug/net7.0/Asynchronous.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/bin/Debug/net7.0/Asynchronous.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/bin/Debug/net7.0/Asynchronous.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/bin/Debug/net7.0/Asynchronous.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/refint/Asynchronous.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/Asynchronous.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Asynchronous/obj/Debug/net7.0/ref/Asynchronous.dll

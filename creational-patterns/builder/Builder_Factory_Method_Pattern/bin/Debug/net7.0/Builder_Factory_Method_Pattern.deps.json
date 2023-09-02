@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Builder_Factory_Method_Pattern/1.0.0": {
+        "runtime": {
+          "Builder_Factory_Method_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Builder_Factory_Method_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

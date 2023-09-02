@@ -1,0 +1,17 @@
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Extension
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Extension.deps.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Extension.runtimeconfig.json
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Extension.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Extension.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/bin/Debug/net7.0/Microsoft.Extensions.ObjectPool.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.csproj.AssemblyReference.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.AssemblyInfoInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.AssemblyInfo.cs
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.csproj.CoreCompileInputs.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.csproj.CopyComplete
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/refint/Extension.dll
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.pdb
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/Extension.genruntimeconfig.cache
+/Volumes/T7/T7-Codes/design-patterns/creational-patterns/object-pool/Extension/obj/Debug/net7.0/ref/Extension.dll
